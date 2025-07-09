@@ -1,5 +1,0 @@
-C:/Users/USER/Documents/GitHub/Shadow-Safari/.utmp/RelWithDebInfo/125t14w2/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/USER/Documents/GitHub/Shadow-Safari/.utmp/RelWithDebInfo/125t14w2/x86_64/CMakeFiles/rebuild_cache.dir
-C:/Users/USER/Documents/GitHub/Shadow-Safari/.utmp/RelWithDebInfo/125t14w2/x86_64/FramePacing/CMakeFiles/swappywrapper.dir
-C:/Users/USER/Documents/GitHub/Shadow-Safari/.utmp/RelWithDebInfo/125t14w2/x86_64/FramePacing/CMakeFiles/edit_cache.dir
-C:/Users/USER/Documents/GitHub/Shadow-Safari/.utmp/RelWithDebInfo/125t14w2/x86_64/FramePacing/CMakeFiles/rebuild_cache.dir
